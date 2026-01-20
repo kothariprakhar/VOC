@@ -1,0 +1,5 @@
+{
+  "name": "VoC Analytics (Voice of Customer)",
+  "description": "A product intelligence platform that simulates scraping reviews from social sources (Reddit, Twitter, Product Hunt) to analyze sentiment, identify bugs, and prioritize feature requests using Gemini AI.",
+  "requestFramePermissions": []
+}
